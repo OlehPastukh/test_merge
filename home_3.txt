@@ -1,3 +1,4 @@
-Hello from file home_3.txt
+﻿Hello from file home_3.txt
 Первое изменение 1
 Второе изменение 2
+Изменение для удаленного сервера 1
